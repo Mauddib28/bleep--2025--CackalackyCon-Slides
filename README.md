@@ -1,2 +1,2 @@
 # bleep--2025--CackalackyCon-Slides
-Slides from CackalackyCon 2025
+Slides for BLEEP research presented at CackalackyCon 2025
